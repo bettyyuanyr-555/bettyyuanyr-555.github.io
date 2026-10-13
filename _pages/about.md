@@ -30,6 +30,14 @@ I am an energetic and curious researcher who enjoys learning across fields, work
 - **September 27, 2026** — *SymBreak: Breaking the Implanted False-Belief to Identify Subvisual Ischemic Changes* is under review at ICLR 2027.
 - **2026** — The *Scientific Discovery Birthplaces and Citation Diffusion in Global Knowledge Networks* project is being developed as a working paper.
 
+## Selected Projects
+
+{% include base_path %}
+{% assign homepage_projects = site.portfolio | sort: "order" %}
+{% for post in homepage_projects %}
+  {% include archive-single.html %}
+{% endfor %}
+
 ## Beyond Research
 
 Outside research, I enjoy travelling, city walks, making coffee and desserts, and dancing.

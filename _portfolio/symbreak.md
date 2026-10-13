@@ -3,6 +3,7 @@ title: "SymBreak: Subvisual Ischemic Change Detection"
 excerpt: "A trustworthy medical-imaging project for detecting subtle ischemic changes from non-contrast CT.<br/><img src='/images/symbreak.png'>"
 collection: portfolio
 date: 2026-06-01
+order: 1
 ---
 
 SymBreak focuses on hyperacute ischemic stroke detection from non-contrast CT, especially weak signals that are difficult to identify visually.

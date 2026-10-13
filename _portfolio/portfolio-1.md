@@ -3,6 +3,7 @@ title: "Scientific Discovery Birthplaces and Citation Diffusion"
 excerpt: "A working paper on where major discoveries originate and how they diffuse across institutional and geographic citation networks.<br/><img src='/images/discovery-figure-1.png'>"
 collection: portfolio
 date: 2026-04-01
+order: 1
 
 ---
 

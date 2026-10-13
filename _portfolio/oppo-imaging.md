@@ -1,8 +1,9 @@
 ---
 title: "Imaging Algorithm Evaluation at OPPO"
-excerpt: "Statistical evaluation of objective video-quality measurements and expert subjective severity scores.<br/><img src='/images/500x300.png'>"
+excerpt: "Statistical evaluation of objective video-quality measurements and expert subjective severity scores."
 collection: portfolio
 date: 2026-06-15
+order: 2
 ---
 
 During a summer internship at OPPO, I studied disagreement between objective video-quality measurements and expert severity ratings under latent scene structure and heterogeneous score distributions.

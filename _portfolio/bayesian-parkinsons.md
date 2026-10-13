@@ -1,8 +1,9 @@
 ---
 title: "Bayesian-Calibrated Parkinson's Disease Screening"
-excerpt: "Bayesian posterior-risk estimation and hemispheric asymmetry analysis for T1-weighted MRI.<br/><img src='/images/500x300.png'>"
+excerpt: "Bayesian posterior-risk estimation and hemispheric asymmetry analysis for T1-weighted MRI."
 collection: portfolio
 date: 2026-07-01
+order: 2
 ---
 
 This project develops a leakage-safe 3D T1-weighted MRI pipeline for baseline de novo Parkinson's disease versus healthy control analysis.
