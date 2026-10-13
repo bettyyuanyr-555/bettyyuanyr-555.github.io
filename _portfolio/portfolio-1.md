@@ -14,4 +14,4 @@ I built discovery-level OpenAlex corpora with entity disambiguation and non-rese
 
 **Status:** Working paper in progress.
 
-**Mentors:** Shana D. Stites (UPenn), Yifang Ma (SUSTech), Lili Miao (The Chinese University of Hong Kong), Longxi Zhou (SUSTech)
+**Mentors:** Yifang Ma (SUSTech), Lili Miao (The Chinese University of Hong Kong)

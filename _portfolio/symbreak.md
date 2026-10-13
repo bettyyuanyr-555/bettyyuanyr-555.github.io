@@ -13,4 +13,4 @@ The project uses a false-belief implantation paradigm to generate bilaterally sy
 
 **Status:** Manuscript under review at ICLR 2027.
 
-**Mentors:** Shana D. Stites (UPenn), Yifang Ma (SUSTech), Lili Miao (The Chinese University of Hong Kong), Longxi Zhou (SUSTech)
+**Mentor:** Longxi Zhou (SUSTech)

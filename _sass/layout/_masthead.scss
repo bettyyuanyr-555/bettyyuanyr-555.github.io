@@ -31,7 +31,8 @@
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
-      max-width: $x-large;
+      /* Match the full-width desktop content area used by the page body. */
+      max-width: none;
     }
 
     nav {

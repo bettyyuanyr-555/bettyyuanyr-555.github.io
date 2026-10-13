@@ -13,4 +13,4 @@ I built a PubMed retrieval pipeline comparing dense, BM25, and hybrid retrieval 
 
 **Recognition:** Conference posters at AAIC Neuro Next 2026 and the Penn CFAR Scientific Symposium 2026.
 
-**Mentors:** Shana D. Stites (UPenn), Yifang Ma (SUSTech), Lili Miao (The Chinese University of Hong Kong), Longxi Zhou (SUSTech)
+**Mentor:** Shana D. Stites (UPenn)

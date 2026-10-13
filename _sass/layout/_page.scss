@@ -12,7 +12,9 @@
   animation-delay: 0.35s;
 
   @include breakpoint($x-large) {
-    max-width: $x-large;
+    /* Keep the desktop layout full-width so browsers with different
+       viewport scaling do not switch to a centered 1280px canvas. */
+    max-width: none;
   }
 }
 
