@@ -4,6 +4,7 @@ excerpt: "Bayesian posterior-risk estimation and hemispheric asymmetry analysis 
 collection: portfolio
 date: 2026-07-01
 order: 2
+date_text: "July 2026 - Present"
 ---
 
 This project develops a leakage-safe 3D T1-weighted MRI pipeline for baseline de novo Parkinson's disease versus healthy control analysis.

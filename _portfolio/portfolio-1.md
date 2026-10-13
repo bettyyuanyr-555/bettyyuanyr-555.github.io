@@ -4,6 +4,7 @@ excerpt: "A working paper on where major discoveries originate and how they diff
 collection: portfolio
 date: 2026-04-01
 order: 1
+date_text: "April 2026 - Present"
 
 ---
 
@@ -12,3 +13,5 @@ This project studies where major scientific discoveries originate and how they d
 I built discovery-level OpenAlex corpora with entity disambiguation and non-research filtering, detected discovery-specific burst years, and identified foundation papers through citation-neighborhood expansion and hybrid BERT/citation ranking. Preliminary analysis suggests that citing-city ranks follow a heavy-tailed pattern, indicating that knowledge diffusion concentrates in a small set of knowledge centres.
 
 **Status:** Working paper in progress.
+
+**Mentors:** Shana D. Stites (UPenn), Yifang Ma (SUSTech), Lili Miao (The Chinese University of Hong Kong), Longxi Zhou (SUSTech)
