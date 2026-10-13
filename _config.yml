@@ -13,10 +13,10 @@ title                    : "Yiran (Betty) Yuan"
 title_separator          : "-"
 name                     : &name "Yiran (Betty) Yuan"
 description              : &description "Statistics senior undergraduate working on scientific discovery, trustworthy machine learning, and medical imaging."
-url                      : https://yourusername.github.io
+url                      : https://bettyyuanyr-555.github.io
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yourusername/yourusername.github.io"
+repository               : "bettyyuanyr-555/bettyyuanyr-555.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
