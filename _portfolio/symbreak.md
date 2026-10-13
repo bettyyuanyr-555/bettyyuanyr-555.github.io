@@ -1,6 +1,6 @@
 ---
 title: "SymBreak: Subvisual Ischemic Change Detection"
-excerpt: "A trustworthy medical-imaging project for detecting subtle ischemic changes from non-contrast CT.<br/><img src='/images/500x300.png'>"
+excerpt: "A trustworthy medical-imaging project for detecting subtle ischemic changes from non-contrast CT.<br/><img src='/images/symbreak.png'>"
 collection: portfolio
 date: 2026-06-01
 ---

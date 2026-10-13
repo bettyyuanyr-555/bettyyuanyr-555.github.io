@@ -32,11 +32,6 @@ Industry Research Experience
 * **Imaging Algorithm Evaluation Intern, OPPO**, Summer 2026
   * Improved objective-subjective consistency from 82.2% to 94.6% using score debiasing, clustering, and CNN/Transformer models.
 
-Selected Project
-======
-* **User Growth Strategy Optimization with Causal Inference**, Nov. 2025 - Jan. 2026
-  * Used an X-Learner for uplift modelling and quadratic programming for constrained budget allocation.
-
 Honors and Awards
 ======
 * Academic Excellence Scholarship, SUSTech, 2023 - 2025

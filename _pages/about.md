@@ -34,4 +34,10 @@ I am an energetic and curious researcher who enjoys learning across fields, work
 
 Outside research, I enjoy travelling, city walks, making coffee and desserts, and dancing.
 
-> Images will be added later. Project cards currently use a shared placeholder image so that you can replace it with your own visual materials when ready.
+| Travelling | City walks |
+|---|---|
+| ![Travelling](/images/interests/travel.jpg) | ![City walks](/images/interests/citywalk.jpg) |
+
+| Coffee and desserts | Dancing |
+|---|---|
+| ![Coffee and desserts](/images/interests/coffee-desserts.jpg) | ![Dancing](/images/interests/dancing.jpg) |
