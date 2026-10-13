@@ -11,14 +11,14 @@ I enjoy participating in academic conferences and research-related events. Volun
 **September 28-29, 2024**  
 Volunteer at the Xplorer Forum.
 
-![Xplorer Forum volunteer activity](/images/activities/volunteer.jpg)
+<img loading="lazy" src="/images/activities/volunteer.jpg" alt="Xplorer Forum volunteer activity">
 
 ## SUSTech Mathematics Culture Festival
 
 **2025**  
 Participant and volunteer at the SUSTech Mathematics Culture Festival.
 
-![SUSTech Mathematics Culture Festival](/images/activities/math_affair.jpg)
+<img loading="lazy" src="/images/activities/math_affair.jpg" alt="SUSTech Mathematics Culture Festival">
 
 ## 2026 ICSA China Statistical Association
 

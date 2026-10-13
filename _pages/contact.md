@@ -14,5 +14,3 @@ I am happy to connect about research, collaboration, and opportunities involving
 ### Location
 
 Shenzhen, China
-
-More academic and social links can be added later in `_config.yml`.

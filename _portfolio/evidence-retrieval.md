@@ -1,6 +1,6 @@
 ---
 title: "Evidence-Oriented Literature Retrieval and Evaluation"
-excerpt: "Auditable evidence retrieval for subjective-objective cognitive dissociation across HIV and Alzheimer's disease literature.<br/><img src='/images/Penn_CFAR.png'>"
+excerpt: "Auditable evidence retrieval for subjective-objective cognitive dissociation across HIV and Alzheimer's disease literature.<br/><img loading='lazy' src='/images/Penn_CFAR.jpg'>"
 collection: portfolio
 date: 2026-03-01
 order: 1

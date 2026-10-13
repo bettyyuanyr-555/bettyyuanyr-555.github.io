@@ -15,6 +15,8 @@ My work sits at the intersection of statistical methodology, trustworthy machine
 
 I am an energetic and curious researcher who enjoys learning across fields, working with collaborators, and turning messy data into interpretable evidence.
 
+I am preparing to apply for PhD programs for Fall 2027, with interests spanning scientific discovery, trustworthy AI, and biomedical information.
+
 ## Research Interests
 
 - Science of science, citation networks, and knowledge diffusion
@@ -44,8 +46,8 @@ Outside research, I enjoy travelling, city walks, making coffee and desserts, an
 
 | Travelling | City walks |
 |---|---|
-| ![Travelling](/images/interests/travel.jpg) | ![City walks](/images/interests/citywalk.jpg) |
+| <img loading="lazy" src="/images/interests/travel.jpg" alt="Travelling"> | <img loading="lazy" src="/images/interests/citywalk.jpg" alt="City walks"> |
 
 | Coffee and desserts | Dancing |
 |---|---|
-| ![Coffee and desserts](/images/interests/coffee-desserts.jpg) | ![Dancing](/images/interests/dancing.jpg) |
+| <img loading="lazy" src="/images/interests/coffee-desserts.jpg" alt="Coffee and desserts"> | <img loading="lazy" src="/images/interests/dancing.jpg" alt="Dancing"> |
