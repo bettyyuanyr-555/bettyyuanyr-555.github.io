@@ -13,4 +13,4 @@ The project uses a false-belief implantation paradigm to generate bilaterally sy
 
 **Status:** Manuscript under review at ICLR 2027.
 
-**Mentor:** Longxi Zhou (SUSTech)
+**Mentor:** Longxi Zhou, Assistant Professor and Doctoral Supervisor, Department of Biomedical Engineering, Southern University of Science and Technology

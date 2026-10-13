@@ -13,4 +13,4 @@ I built a PubMed retrieval pipeline comparing dense, BM25, and hybrid retrieval 
 
 **Recognition:** Conference posters at AAIC Neuro Next 2026 and the Penn CFAR Scientific Symposium 2026.
 
-**Mentor:** Shana D. Stites (UPenn)
+**Mentor:** Shana D. Stites, Senior Research Investigator, Department of Medical Ethics and Health Policy, Perelman School of Medicine, University of Pennsylvania

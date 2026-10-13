@@ -14,4 +14,4 @@ I built discovery-level OpenAlex corpora with entity disambiguation and non-rese
 
 **Status:** Working paper in progress.
 
-**Mentors:** Yifang Ma (SUSTech), Lili Miao (The Chinese University of Hong Kong)
+**Mentors:** Yifang Ma, Assistant Professor and Doctoral Supervisor, Department of Statistics and Data Science, Southern University of Science and Technology; Lili Miao, Assistant Professor, Thrust of Innovation, Policy and Entrepreneurship, The Hong Kong University of Science and Technology (Guangzhou)
