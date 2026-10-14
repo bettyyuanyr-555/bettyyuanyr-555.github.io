@@ -11,7 +11,7 @@ redirect_from:
 
 I am Yiran (Betty) Yuan, a Statistics senior undergraduate in the Department of Statistics and Data Science at Southern University of Science and Technology (SUSTech). I enjoy using statistical thinking, machine learning, and careful empirical analysis to understand complex scientific and real-world questions.
 
-My work sits at the intersection of statistical methodology, trustworthy machine learning, and scientific discovery. I am especially interested in how knowledge emerges and diffuses through citation networks, how medical imaging models can become more calibrated and reliable, and how evidence can be retrieved and evaluated transparently.
+My work sits at the intersection of statistical methodology, AI, complex networks, and trustworthy machine learning. Across different scientific and biomedical problems, I use statistical reasoning, network-based analysis, and modern AI to turn complex data into interpretable evidence. I am especially interested in how statistical knowledge can help explain the behavior of trustworthy AI systems, characterize the emergence and diffusion of knowledge, and make biomedical predictions more reliable.
 
 I am an energetic and curious researcher who enjoys learning across fields, working with collaborators, and turning messy data into interpretable evidence.
 
