@@ -12,7 +12,7 @@ site_theme               : "air"
 title                    : "Yiran (Betty) Yuan"
 title_separator          : "-"
 name                     : &name "Yiran (Betty) Yuan"
-description              : &description "Statistics senior undergraduate working on scientific discovery, trustworthy machine learning, and medical imaging."
+description              : &description "Statistics researcher using network science and trustworthy AI to study scientific discovery and biomedical evidence."
 url                      : https://bettyyuanyr-555.github.io
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Yiran (Betty) Yuan"
   pronouns         : # example: "she/her"  
-  bio              : "Statistics senior undergraduate | Scientific Discovery Network | Trustworthy AI | Biomedical Information"
+  bio              : "B.S. Candidate in Statistics | Complex Networks | Trustworthy Biomedical AI"
   location         : "Shenzhen, China"
   employer         : "Southern University of Science and Technology"
   uri              : # URL
@@ -125,7 +125,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true
   path                   : # blank (default) uses feed.xml
 
 

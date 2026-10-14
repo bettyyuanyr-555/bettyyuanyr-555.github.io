@@ -7,47 +7,70 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
-
-I am Yiran (Betty) Yuan, a Statistics senior undergraduate in the Department of Statistics and Data Science at Southern University of Science and Technology (SUSTech). I enjoy using statistical thinking, machine learning, and careful empirical analysis to understand complex scientific and real-world questions.
-
-My work sits at the intersection of statistical methodology, AI, complex networks, and trustworthy machine learning. Across different scientific and biomedical problems, I use statistical reasoning, network-based analysis, and modern AI to turn complex data into interpretable evidence. I am especially interested in how statistical knowledge can help explain the behavior of trustworthy AI systems, characterize the emergence and diffusion of knowledge, and make biomedical predictions more reliable.
-
-I am an energetic and curious researcher who enjoys learning across fields, working with collaborators, and turning messy data into interpretable evidence.
-
-I am preparing to apply for PhD programs for Fall 2027, with interests spanning scientific discovery, trustworthy AI, and biomedical information.
+<section class="home-intro">
+  <p class="home-kicker">Statistics for trustworthy discovery</p>
+  <p class="home-lead">I am Yiran (Betty) Yuan, a B.S. candidate in Statistics at the Southern University of Science and Technology. My research asks how mathematical structure and careful statistical evaluation can turn complex data and AI outputs into trustworthy evidence.</p>
+  <p>My work follows how scientific discoveries emerge and diffuse through citation networks, how biomedical evidence can be retrieved without losing its provenance, and how medical-imaging models respond to signals that are subtle even for experts. I use network science, statistical learning, uncertainty quantification, and auditable evaluation to study these questions.</p>
+  <p>What excites me most are the discrepancies that reveal a deeper methodological problem: uneven diffusion of discoveries across cities, an LLM mistaking a regression coefficient for a correlation, or an imaging model responding to a barely visible hemispheric asymmetry. I enjoy solving these puzzles collaboratively and making the resulting analysis transparent enough to question, reproduce, and improve.</p>
+  <div class="home-cta">
+    <a class="btn btn--warm" href="{{ '/portfolio/' | relative_url }}">View Research</a>
+    <a class="btn btn--warm" href="{{ '/files/Yiran_Yuan_CV.pdf' | relative_url }}">Download CV</a>
+    <a class="btn btn--light-outline" href="mailto:{{ site.author.email }}">Email Me</a>
+  </div>
+</section>
 
 ## Research Interests
 
-- Science of science, citation networks, and knowledge diffusion
-- Statistical and computational methods for discovery emergence
-- Bayesian uncertainty quantification and calibrated risk prediction
-- Trustworthy machine learning under dataset shift
-- Medical imaging and statistical evaluation of clinical AI
-- Large-scale bibliometric data analysis and evidence retrieval
+<section class="research-pillars">
+  <article class="research-pillar">
+    <h3>Complex Networks &amp; Science of Science</h3>
+    <p>Emergence and diffusion of scientific discoveries across citation, institutional, and geographic networks.</p>
+  </article>
+  <article class="research-pillar">
+    <h3>Trustworthy Biomedical AI</h3>
+    <p>Calibration, robustness, uncertainty, and statistical evaluation for biomedical evidence and medical imaging.</p>
+  </article>
+  <article class="research-pillar">
+    <h3>Auditable AI-Assisted Inference</h3>
+    <p>Measurement error, evidence provenance, and reproducible evaluation of machine-generated scientific variables.</p>
+  </article>
+</section>
 
 ## News
 
-- **September 30, 2026** — Presented *Evidence-Oriented Mapping of Subjective–Objective Cognitive Dissociation in HIV and Alzheimer’s Disease* at the Penn CFAR Scientific Symposium.
-- **September 27, 2026** — *SymBreak: Breaking the Implanted False-Belief to Identify Subvisual Ischemic Changes* is under review at ICLR 2027.
-- **2026** — The *Scientific Discovery Birthplaces and Citation Diffusion in Global Knowledge Networks* project is being developed as a working paper.
+<ul class="home-news">
+  <li><strong>September 30, 2026</strong> — Presented <em>Evidence-Oriented Mapping of Subjective–Objective Cognitive Dissociation in HIV and Alzheimer’s Disease</em> at the Penn CFAR Scientific Symposium.</li>
+  <li><strong>September 2026</strong> — <em>SymBreak</em> entered review at ICLR 2027.</li>
+  <li><strong>2026</strong> — Continuing a working paper on the emergence and diffusion of scientific discoveries.</li>
+</ul>
 
-## Selected Projects
+## Featured Research
 
-{% include base_path %}
-{% assign homepage_projects = site.portfolio | sort: "order" %}
-{% for post in homepage_projects %}
-  {% include archive-single.html %}
+<section class="featured-projects">
+{% assign featured_projects = site.portfolio | where: "featured", true | sort: "order" %}
+{% for post in featured_projects %}
+  <article class="project-card">
+    <div class="project-card-body">
+      <p class="project-card-date">{{ post.date_text }}</p>
+      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      <div class="project-card-excerpt">{{ post.excerpt | markdownify }}</div>
+      <a class="section-link" href="{{ post.url | relative_url }}">Read project details →</a>
+    </div>
+  </article>
 {% endfor %}
+</section>
+
+<p><a class="section-link" href="{{ '/portfolio/' | relative_url }}">Explore all research and additional projects →</a></p>
 
 ## Beyond Research
 
-Outside research, I enjoy travelling, city walks, making coffee and desserts, and dancing.
+<p class="beyond-research">Outside research, I recharge through travelling, city walks, making coffee and desserts, and dancing. These small rituals keep me curious, observant, and connected to people and places beyond my datasets.</p>
 
-| Travelling | City walks |
-|---|---|
-| <img loading="lazy" src="/images/interests/travel.jpg" alt="Travelling"> | <img loading="lazy" src="/images/interests/citywalk.jpg" alt="City walks"> |
+<section class="interest-strip">
+  <figure><img loading="lazy" src="{{ '/images/interests/travel.jpg' | relative_url }}" alt="Travelling"><figcaption>Travelling</figcaption></figure>
+  <figure><img loading="lazy" src="{{ '/images/interests/citywalk.jpg' | relative_url }}" alt="City walks"><figcaption>City walks</figcaption></figure>
+  <figure><img loading="lazy" src="{{ '/images/interests/coffee-desserts.jpg' | relative_url }}" alt="Coffee and desserts"><figcaption>Coffee &amp; desserts</figcaption></figure>
+  <figure><img loading="lazy" src="{{ '/images/interests/dancing.jpg' | relative_url }}" alt="Dancing"><figcaption>Dancing</figcaption></figure>
+</section>
 
-| Coffee and desserts | Dancing |
-|---|---|
-| <img loading="lazy" src="/images/interests/coffee-desserts.jpg" alt="Coffee and desserts"> | <img loading="lazy" src="/images/interests/dancing.jpg" alt="Dancing"> |
+<p><a class="section-link" href="{{ '/activities/' | relative_url }}">See how I participate in academic communities →</a></p>
