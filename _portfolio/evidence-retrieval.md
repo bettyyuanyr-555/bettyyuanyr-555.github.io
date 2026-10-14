@@ -12,6 +12,6 @@ As a remote research assistant at the University of Pennsylvania, I contributed 
 
 I built a PubMed pipeline comparing dense, BM25, and hybrid retrieval. Claims are linked to source passages, while incompatible coefficients are rejected. Retrieval recovered 25 of 27 HIV reference studies; screening precision was 100%, recall 78%, and specificity 100%. Five fixed-input runs achieved Fleiss' κ = 1.00. The evidence map includes 37 HIV studies and 48 Alzheimer's disease studies.
 
-**Recognition:** Conference posters presented at AAIC Neuro Next 2026 and the Penn CFAR Scientific Symposium 2026; this is conference-poster work, not a journal publication.
+**Recognition:** Conference posters presented at AAIC Neuro Next 2026 and the Penn CFAR Scientific Symposium 2026.
 
 **Mentor:** Shana D. Stites, Senior Research Investigator, Department of Medical Ethics and Health Policy, Perelman School of Medicine, University of Pennsylvania

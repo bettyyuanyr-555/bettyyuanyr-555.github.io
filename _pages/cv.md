@@ -37,7 +37,7 @@ Research Experience
 ======
 * **Emergence and Diffusion of Scientific Discoveries**, Apr. 2026 - Present
   * Built OpenAlex-based discovery corpora and investigated burst years, canonical papers, and geographic citation diffusion using network statistics and semantic ranking.
-  * Working paper in progress; no causal mechanism is claimed.
+  * Working paper in progress.
 * **Auditable Evidence Synthesis Across HIV and Alzheimer's Disease**, Remote Research Assistant, University of Pennsylvania, Mar. 2026 - Present
   * Built auditable PubMed retrieval and evidence-mapping pipelines with dense, BM25, and hybrid retrieval.
   * Conference posters presented at AAIC Neuro Next 2026 and the Penn CFAR Scientific Symposium 2026.
@@ -46,7 +46,6 @@ Research Experience
   * Manuscript under review at ICLR 2027.
 * **Exploratory Prevalence-Aware Calibration for Parkinson's MRI**, 2026
   * Exploratory methodological study combining bilateral representation learning, Bayesian posterior risk, and calibration evaluation.
-  * No final clinical-performance result is claimed.
 
 Industry Research Experience
 ======

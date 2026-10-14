@@ -32,5 +32,3 @@ I enjoy participating in academic conferences and research-related events. Volun
 </article>
 
 </section>
-
-<p class="activity-note">Please confirm the exact volunteer duties if they differed from this summary.</p>
