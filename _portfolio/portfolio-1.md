@@ -3,7 +3,7 @@ title: "Knowledge Emergence and Diffusion in Scientific Networks"
 excerpt: "A statistical and network-science study of how knowledge emerges and diffuses through global citation networks.<br/><img loading='lazy' src='/images/knowledge-figure-1.jpg'>"
 collection: portfolio
 date: 2026-03-01
-order: 6
+order: 1
 featured: true
 date_text: "March 2026 - Present"
 

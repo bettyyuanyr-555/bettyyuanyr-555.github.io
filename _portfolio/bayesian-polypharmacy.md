@@ -3,7 +3,7 @@ title: "Bayesian Random-Intercept Modeling for Polypharmacy"
 excerpt: "MCMC-based Bayesian posterior estimation and diagnostic analysis for polypharmacy data.<br/><img loading='lazy' src='/images/202605.jpg'>"
 collection: portfolio
 date: 2026-05-01
-order: 4
+order: 5
 featured: false
 date_text: "May 2026"
 ---

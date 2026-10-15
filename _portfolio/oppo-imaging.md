@@ -3,7 +3,7 @@ title: "Imaging Algorithm Intern at OPPO"
 excerpt: "Statistical modeling and AI-assisted evaluation of objective and subjective video quality."
 collection: portfolio
 date: 2026-06-01
-order: 1
+order: 2
 featured: false
 date_text: "June 2026 - October 2026"
 ---

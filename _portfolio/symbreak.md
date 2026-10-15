@@ -3,7 +3,7 @@ title: "SymBreak: Detecting Subvisual Ischemic Changes"
 excerpt: "A statistical and trustworthy-AI approach to detecting subtle ischemic changes from non-contrast CT.<br/><img loading='lazy' src='/images/symbreak.jpg'>"
 collection: portfolio
 date: 2026-04-01
-order: 5
+order: 6
 featured: true
 date_text: "April 2026 - September 2026"
 ---
