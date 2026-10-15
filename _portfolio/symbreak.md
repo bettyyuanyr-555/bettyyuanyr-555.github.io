@@ -2,10 +2,10 @@
 title: "SymBreak: Detecting Subvisual Ischemic Changes"
 excerpt: "A statistical and trustworthy-AI approach to detecting subtle ischemic changes from non-contrast CT.<br/><img loading='lazy' src='/images/symbreak.jpg'>"
 collection: portfolio
-date: 2026-06-01
-order: 3
+date: 2026-04-01
+order: 5
 featured: true
-date_text: "June 2026 - Present"
+date_text: "April 2026 - September 2026"
 ---
 
 SymBreak focuses on counterfactual symmetry-breaking evaluation for hyperacute ischemic stroke detection from non-contrast CT, especially weak signals that are difficult to identify visually. The project asks how statistical structure and carefully designed AI models can expose meaningful signals while making model behavior easier to evaluate and interpret.

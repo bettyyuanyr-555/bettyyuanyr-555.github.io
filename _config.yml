@@ -12,7 +12,7 @@ site_theme               : "air"
 title                    : "Yiran (Betty) Yuan"
 title_separator          : "-"
 name                     : &name "Yiran (Betty) Yuan"
-description              : &description "Statistics researcher using network science and trustworthy AI to study scientific discovery and biomedical evidence."
+description              : &description "Statistics researcher using network science and trustworthy AI to study knowledge emergence and biomedical evidence."
 url                      : https://bettyyuanyr-555.github.io
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

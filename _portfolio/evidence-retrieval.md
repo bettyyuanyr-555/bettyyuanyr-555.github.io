@@ -2,10 +2,10 @@
 title: "Auditable Evidence Synthesis Across HIV and Alzheimer's Disease"
 excerpt: "A statistically evaluated AI pipeline for auditable biomedical evidence retrieval.<br/><img loading='lazy' src='/images/Penn_CFAR.jpg'>"
 collection: portfolio
-date: 2026-03-01
-order: 2
+date: 2025-12-01
+order: 7
 featured: true
-date_text: "March 2026 - Present"
+date_text: "December 2025 - March 2026"
 ---
 
 As a remote research assistant at the University of Pennsylvania, I contributed to a systematic review of 28 HIV studies and an evidence map spanning HIV and Alzheimer's disease literatures. A key motivation was an AI failure in which a model silently relabeled a regression coefficient as a correlation, showing why biomedical inference needs statistical checks and auditable provenance.

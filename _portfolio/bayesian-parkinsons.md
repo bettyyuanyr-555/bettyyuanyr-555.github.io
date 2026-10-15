@@ -2,8 +2,8 @@
 title: "Exploratory Prevalence-Aware Calibration for Parkinson's MRI"
 excerpt: "Bayesian statistical modeling and trustworthy AI for Parkinson's disease screening from MRI."
 collection: portfolio
-date: 2026-07-01
-order: 5
+date: 2026-05-01
+order: 2
 featured: false
 date_text: "2026"
 ---

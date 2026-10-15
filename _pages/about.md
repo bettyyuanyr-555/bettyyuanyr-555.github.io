@@ -8,10 +8,11 @@ redirect_from:
 ---
 
 <section class="home-intro">
-  <p class="home-kicker">Statistics for trustworthy discovery</p>
+  <p class="home-kicker">Statistics for trustworthy knowledge</p>
   <p class="home-lead">I am Yiran (Betty) Yuan, a B.S. candidate in Statistics at the Southern University of Science and Technology. My research asks how mathematical structure and careful statistical evaluation can turn complex data and AI outputs into trustworthy evidence.</p>
-  <p>My work follows how scientific discoveries emerge and diffuse through citation networks, how biomedical evidence can be retrieved without losing its provenance, and how medical-imaging models respond to signals that are subtle even for experts. I use network science, statistical learning, uncertainty quantification, and auditable evaluation to study these questions.</p>
-  <p>What excites me most are the discrepancies that reveal a deeper methodological problem: uneven diffusion of discoveries across cities, an LLM mistaking a regression coefficient for a correlation, or an imaging model responding to a barely visible hemispheric asymmetry. I enjoy solving these puzzles collaboratively and making the resulting analysis transparent enough to question, reproduce, and improve.</p>
+  <p>My work follows how knowledge emerges and diffuses through citation networks, how biomedical evidence can be retrieved without losing its provenance, and how medical-imaging models respond to signals that are subtle even for experts. I use network science, statistical learning, uncertainty quantification, and auditable evaluation to study these questions.</p>
+  <p>What excites me most are the discrepancies that reveal a deeper methodological problem: uneven diffusion of knowledge across cities, an LLM mistaking a regression coefficient for a correlation, or an imaging model responding to a barely visible hemispheric asymmetry. I enjoy solving these puzzles collaboratively and making the resulting analysis transparent enough to question, reproduce, and improve.</p>
+  <p>I am currently looking for PhD positions for Fall 2027, especially opportunities at the intersection of statistics, complex networks, and trustworthy AI.</p>
   <div class="home-cta">
     <a class="btn btn--warm" href="{{ '/portfolio/' | relative_url }}">View Research</a>
     <a class="btn btn--warm" href="{{ '/files/Yiran_Yuan_CV.pdf' | relative_url }}">Download CV</a>
@@ -24,7 +25,7 @@ redirect_from:
 <section class="research-pillars">
   <article class="research-pillar">
     <h3>Complex Networks &amp; Science of Science</h3>
-    <p>Emergence and diffusion of scientific discoveries across citation, institutional, and geographic networks.</p>
+    <p>Emergence and diffusion of scientific knowledge across citation, institutional, and geographic networks.</p>
   </article>
   <article class="research-pillar">
     <h3>Trustworthy Biomedical AI</h3>
@@ -41,7 +42,7 @@ redirect_from:
 <ul class="home-news">
   <li><strong>September 30, 2026</strong> — Presented <em>Evidence-Oriented Mapping of Subjective–Objective Cognitive Dissociation in HIV and Alzheimer’s Disease</em> at the Penn CFAR Scientific Symposium.</li>
   <li><strong>September 2026</strong> — <em>SymBreak</em> entered review at ICLR 2027.</li>
-  <li><strong>2026</strong> — Continuing a working paper on the emergence and diffusion of scientific discoveries.</li>
+  <li><strong>2026</strong> — Continuing a working paper on the emergence and diffusion of scientific knowledge.</li>
 </ul>
 
 ## Featured Research

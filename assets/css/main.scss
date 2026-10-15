@@ -192,7 +192,8 @@
   flex: 1;
 }
 
-.project-card-excerpt img {
+.project-card-excerpt img,
+.additional-project .project-card-excerpt img {
   display: block;
   width: 100%;
   height: 145px;

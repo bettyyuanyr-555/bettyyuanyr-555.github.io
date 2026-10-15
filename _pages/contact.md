@@ -4,7 +4,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-I am happy to connect about research, collaboration, and opportunities involving statistics, scientific discovery, trustworthy machine learning, or medical imaging.
+I am happy to connect about research, collaboration, and opportunities involving statistics, knowledge networks, trustworthy machine learning, or medical imaging.
 
 ### Email
 

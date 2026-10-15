@@ -9,11 +9,11 @@ author_profile: true
 
 <p class="portfolio-question">My projects share one question: how can mathematical structure and careful statistical evaluation turn complex data and AI outputs into trustworthy evidence?</p>
 
-## Featured Research
+## Research Projects
 
 <section class="featured-projects portfolio-projects">
-{% assign featured_projects = site.portfolio | where: "featured", true | sort: "order" %}
-{% for post in featured_projects %}
+{% assign all_projects = site.portfolio | sort: "order" %}
+{% for post in all_projects %}
   <article class="project-card">
     <div class="project-card-body">
       <p class="project-card-date">{{ post.date_text }}</p>
@@ -21,20 +21,6 @@ author_profile: true
       <div class="project-card-excerpt">{{ post.excerpt | markdownify }}</div>
       <a class="section-link" href="{{ post.url | relative_url }}">Read project details →</a>
     </div>
-  </article>
-{% endfor %}
-</section>
-
-## Additional Research Experience
-
-<section class="additional-projects">
-{% assign additional_projects = site.portfolio | where: "featured", false | sort: "order" %}
-{% for post in additional_projects %}
-  <article class="additional-project">
-    <p class="project-card-date">{{ post.date_text }}</p>
-    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-    <div class="project-card-excerpt">{{ post.excerpt | markdownify }}</div>
-    <a class="section-link" href="{{ post.url | relative_url }}">Read project details →</a>
   </article>
 {% endfor %}
 </section>

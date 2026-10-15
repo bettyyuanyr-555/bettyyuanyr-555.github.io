@@ -35,13 +35,13 @@ Professional Coursework
 
 Research Experience
 ======
-* **Emergence and Diffusion of Scientific Discoveries**, Apr. 2026 - Present
-  * Built OpenAlex-based discovery corpora and investigated burst years, canonical papers, and geographic citation diffusion using network statistics and semantic ranking.
+* **Knowledge Emergence and Diffusion in Scientific Networks**, Mar. 2026 - Present
+  * Built OpenAlex-based knowledge corpora and investigated burst years, canonical papers, and geographic citation diffusion using network statistics and semantic ranking.
   * Working paper in progress.
-* **Auditable Evidence Synthesis Across HIV and Alzheimer's Disease**, Remote Research Assistant, University of Pennsylvania, Mar. 2026 - Present
+* **Auditable Evidence Synthesis Across HIV and Alzheimer's Disease**, Remote Research Assistant, University of Pennsylvania, Dec. 2025 - Mar. 2026
   * Built auditable PubMed retrieval and evidence-mapping pipelines with dense, BM25, and hybrid retrieval.
   * Conference posters presented at AAIC Neuro Next 2026 and the Penn CFAR Scientific Symposium 2026.
-* **SymBreak: Detecting Subvisual Ischemic Changes**, Jun. 2026 - Present
+* **SymBreak: Detecting Subvisual Ischemic Changes**, Apr. 2026 - Sep. 2026
   * Contributed to counterfactual symmetry-breaking evaluation, patient-level SBI analysis, and robustness/error-pattern statistics.
   * Manuscript under review at ICLR 2027.
 * **Exploratory Prevalence-Aware Calibration for Parkinson's MRI**, 2026
@@ -49,14 +49,26 @@ Research Experience
 
 Industry Research Experience
 ======
-* **Imaging Algorithm Evaluation Intern, OPPO**, Jun. 2026 - Oct. 2026
+* **Imaging Algorithm Intern, OPPO**, Jun. 2026 - Oct. 2026
   * Studied measurement validity using score debiasing, unsupervised scene clustering, and CNN/Transformer models.
   * Improved objective-subjective consistency from 82.2% to 94.6% for downstream imaging-algorithm evaluation.
 
-Selected Project
+Selected Projects
 ======
 * **User Growth Strategy Optimization with Causal Inference**, Nov. 2025 - Jan. 2026
   * Estimated user-level CATE with an X-Learner and designed a quadratic-programming budget allocation model under channel and contact-frequency constraints.
+* **Securities Investment Strategy and Trading Profiles**, Jun. 2026
+  * Applied multivariate statistical analysis in Python and R to match investment strategies with customer trading profiles.
+* **Bayesian Random-Intercept Modeling for Polypharmacy**, May 2026
+  * Used a Bayesian logistic random-intercept model with MCMC-based posterior estimation and diagnostic analysis in R and Python.
+* **Olympic Swimming Top-10 Athlete Distribution**, Oct. 2025
+  * Used R for data cleaning, descriptive statistics, distribution comparison, and visualization across historical Olympic Games.
+* **GitHub Collaboration Network Analysis**, Jun. 2025
+  * Used Python and Gephi for network construction, centrality analysis, community detection, and collaboration visualization.
+* **CyberSecDev: Data-Driven Cybersecurity Policy**, Jan. 2025
+  * Developed a data-driven framework for targeted national cybersecurity policy improvement through Python-based statistical analysis and visualization.
+* **LinkedIn Geographic Network Analysis**, Oct. 2024
+  * Used Python, Gephi, and geographic heat maps to analyze regional structure, connectivity, and community patterns in a LinkedIn network.
 
 Presentations and Manuscripts
 ======
